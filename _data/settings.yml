@@ -18,7 +18,7 @@ projects:
 
 social:
 - {icon: 'github',    link: 'https://github.com/anlyons'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/anne-lyons-bioe'}
+- {icon: 'linkedin',  link: 'https://linkedin.com/in/anne-lyons-bioe'}
 - {icon: 'envelope',  link: 'mailto:mailto:annelyonsbioe@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
