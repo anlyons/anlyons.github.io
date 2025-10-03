@@ -9,4 +9,4 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 title:		   "Anne C. Lyons"
 description: "Powered by Jekyll and GitHub Pages"
-author:      "Paul Le"
+author:      "Anne Lyons & Paul Le (Jekyll Theme)"
